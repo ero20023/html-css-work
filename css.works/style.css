@@ -213,12 +213,14 @@ text-align: right;
 
 }
 
-.text-h6{
+.text6{
     height: 24px;
 width: 114px;
 left: 0px;
 top: 0px;
-border-radius: nullpx;
-background: rgba(35, 166, 240, 1);
+color: #23a6f0;
+
+
+
 
 }
