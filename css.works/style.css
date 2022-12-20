@@ -213,7 +213,7 @@ text-align: right;
 
 }
 
-.text6{
+.practice{
     height: 24px;
 width: 114px;
 left: 0px;
@@ -223,11 +223,14 @@ color: #23a6f0;
 
 }
 
-.text-h2{
+.text-2{
     height: 50px;
 width: 690px;
 left: 0px;
 top: 34px;
+ font-weight: 700px;
+ 
+   
 
 
 }
