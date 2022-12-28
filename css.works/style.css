@@ -67,6 +67,7 @@ text-align: center;
    vertical-align: top;
   color:  rgba(255, 255, 255, 1); 
   
+  
 
    
        
@@ -215,3 +216,53 @@ text-align: right;
 }
 
  
+
+
+.title-text{
+    display: flex;
+    width: 1440px;
+    height: 768px;
+    justify-content: flex-start;
+    color: #23a6f0;
+    text-align: center;
+    margin-top: 30px;
+    
+
+    
+}
+
+
+
+.practice{
+    height: 24px;
+width: 114px;
+left: 0px;
+top: 0px;
+border-radius: undefinedpx;
+margin-top: 40px;
+    
+}
+ 
+
+.text-2{
+    height: 50px;
+width: 585px;
+left: 0px;
+top: 34px;
+color: #fff;
+font-family: Montserrat;
+font-size: 20px;
+font-weight: 700;
+line-height: 50px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+margin-top: 20px;
+
+}
+
+.text-3{
+  
+}
+
+
+
