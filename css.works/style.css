@@ -8,7 +8,7 @@
 
  body{
     background-color: #252b42;
-    color: #fff;
+    
  }
     
     
@@ -127,6 +127,7 @@ font-weight: 700;
 text-align: left;
 margin-top: 10px; 
 margin-left: 112px;
+color: #fff;
 
 }
 
@@ -155,6 +156,7 @@ top: 0px;
     font-weight: 400;
     text-align: left;
     margin-left: 106px;
+    color: #fff;
 }
    
  
@@ -217,10 +219,21 @@ text-align: right;
 
  
 
+.contenier{
+    width: 240px;
+    height: 728px;
+    display: flex;
 
+}
 
-
-
+.title-text{
+    height: 24px;
+width: 114px;
+left: 0px;
+top: 0px;
+border-radius: nullpx;
+ color: #23a6f0;
+}
 
 
 
