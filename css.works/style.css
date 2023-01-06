@@ -44,7 +44,7 @@ left: 0px;
 top: 0px;
  margin-left: 23px;
  margin-top: 30px;
-  padding-right:  45px; 
+  padding-right:  40px; 
 font-size: 14px;
 font-weight: 700px;
 line-height: 24px;
@@ -214,13 +214,37 @@ text-align: right;
   padding-left: 100px;
   margin-top: 30px;
   margin-left: 130px;
+  
 
 }
 
+.conteiner{
+    margin: 0px;
+    padding: 0px;
+    width: 1440px;
+    height: 768px;
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+
+}
+
+.title-text{
+    height: 24px;
+width: 114px;
+left: 0px;
+top: 0px;
+border-radius: undefinedpx;
+color: #23a6f0;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.20000000298023224px;
+text-align: left;
+margin-top: 200px;
+padding-left: 40px;
+
+
+}
  
-
-
-
-
-
-
