@@ -167,12 +167,10 @@ top: 0px;
 width: 193px;
 left: 0px;
 top: 0px;
-border-radius: 5px;
-padding: 15px 40px 15px 40px;
-background: rgba(35, 166, 240, 1);
-margin-left: 100px;
-margin-top: 40px;
-color:  rgba(255, 255, 255, 1);
+background-color: rgba(35, 166, 240, 1);
+color: #fff; 
+margin-left: 70px;
+margin-top: 20px;
 
 
 }
@@ -221,7 +219,7 @@ text-align: right;
 .conteiner{
     margin: 0px;
     padding: 0px;
-    width: 1440px;
+    width: 440px;
     height: 768px;
     display: flex;
     justify-content: flex-start;
@@ -234,13 +232,10 @@ text-align: right;
 width: 114px;
 left: 0px;
 top: 0px;
-border-radius: undefinedpx;
 color: #23a6f0;
-font-family: Montserrat;
 font-size: 14px;
 font-weight: 700;
 line-height: 24px;
-letter-spacing: 0.20000000298023224px;
 text-align: left;
 margin-top: 200px;
 padding-left: 40px;
