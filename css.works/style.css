@@ -42,7 +42,6 @@ header{
 width: 43px;
  margin-left: 23px;
  margin-top: 30px;
-text-align: center;
 
      
      
@@ -50,10 +49,8 @@ text-align: center;
 }
 
 .top-menu a{
- width: 43px;
 font-size: 14px;
 font-weight: 700;
-line-height: 24px;
 color:  rgba(255, 255, 255, 1); 
   
   
@@ -64,8 +61,9 @@ color:  rgba(255, 255, 255, 1);
 
 .logo h3 {
 font-size: 24px;
-margin-left: 120px;
-color:#fff ;
+margin-left: 130px;
+color:#fff;
+margin-top: 10px;
 
 
 }
@@ -103,7 +101,7 @@ width: 12px;
  width: 540px;
 font-size: 58px;
 margin-top: 10px; 
-margin-left: 112px;
+margin-left: 110px;
 color: #fff;
 
 
@@ -111,7 +109,6 @@ color: #fff;
 
 .Welcome{
     height: 24px;
-width: 77px;
  margin-top: 130px; 
  margin-left: 113px;
  color:  rgba(35, 166, 240, 1);
@@ -123,10 +120,10 @@ width: 77px;
     
   
 .text-1{
-    height: 60px;
-    font-family: arial;
+    height: 70px;
     font-size: 20px;
-    margin-left: 106px;
+    margin-left: 110px;
+    margin-top: 10px;
     color: #fff;
      
 
@@ -140,7 +137,7 @@ width: 77px;
 width: 193px;
 background-color: rgba(35, 166, 240, 1);
 color: #fff; 
-margin-left: 70px;
+margin-left: 90px;
 margin-top: 20px;
 padding: 0;
 border: none;
@@ -179,10 +176,10 @@ border: none;
 width: 41px;
 font-size: 14px;
 font-weight: 700;
-line-height: 22px;
+line-height: 20px;
   padding-left: 100px;
   margin-top: 30px;
-  margin-left: 120px;
+  margin-left: 160px;
   
 
 }
