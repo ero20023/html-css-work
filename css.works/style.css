@@ -83,6 +83,7 @@ background: rgba(35, 166, 240, 1);
    margin-right: 160px;
    padding: 0;
    border: none;
+   font-size: 14px;
    
 
 
@@ -182,5 +183,37 @@ line-height: 20px;
   margin-left: 160px;
   
 
+}
+
+.title{
+    height: 768px;
+display: block;
+
+
+
+}
+
+.title-text{
+    height: 24px;
+width: 114px;
+font-weight: 700;
+color: #23a6f0;
+margin-top:40px;
+margin-left: 20px;
+
+}
+
+.text-2{
+    height: 50px;
+width: 585px;
+ color: #fff;
+ margin-left: 40px;
+ margin-top: 30px;
+ 
+}
+
+.text-3{
+    margin-left: 30px;
+   color: #fff;
 }
 
