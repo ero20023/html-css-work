@@ -222,107 +222,80 @@ width: 585px;
 
 .text-3{
     margin-left: 30px;
-   color: #fff;
-   font-size: 15px;
-   margin-top: 10px;
-   
+    color: #fff;
+    font-size: 15px;
+    margin-top: 10px;
 }
 
 .cards{
     display: flex;
-    min-height: 100vh;
     justify-content: center;
     align-items: center;
+    min-height: 100px;
     margin: 0;
-    padding: 0;
-      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      padding: 0;
 }
 
 .wrap{
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
+    width: 30%;
     width: 60%;
+    padding: 35px;
     background: rgba(255, 255, 255, 1);
-    box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
 
     
-
-
 }
 
 .informblock{
-    width: 30%;
-    height: 300px;
+    width: 30px;
+    height: 292px;
+    padding: 30px;
+    box-sizing: border-box;
     
 
+    
 }
 
 .square{
     width: 70px;
     height: 76px;
-    background: rgba(231, 64, 64, 1);
-
-}
-.img-1{
+    background: #e74040;
+    padding: 22px;
+    border-radius: 10px;
     
-margin-top: 20px;
-margin-left: 20px;
-border-radius: 10px;
-padding: 22px, 19px, 22px, 19px;
-
-
-
-
-}
-.img-2{
-    margin-top: 30px;
-    margin-left: 20px;
-    border-radius: 10px;
-    padding: 22px, 19px, 22px, 19px;
-}
-
-.img-3{
-    margin-top: 20px;
-    margin-left: 20px;
-    border-radius: 10px;
-    padding: 22px, 19px, 22px, 19px;
-}
-.img-4{
-    margin-top: 20px;
-    margin-left: 20px;
-    border-radius: 10px;
-    padding: 22px, 19px, 22px, 19px;
-
-}
-
-
     
+}
 
-
-.mintext {
+.mintext{
     height: 24px;
-    width: 157px;
-    left: 40px;
-    top: 131px;
-    border-radius: nullpx;
-    margin-top: 20px;
-    
-
-
-    
-
-    
+width: 157px;
+margin-top: 20px;
+color: #252b42;
+font-size: 16px;
 
 
 }
+
+.underlineblock{
+    height: 0;
+    width: 40px;
+    border-top: 2px solid #e74040;
+    
+}
+
 .secondtext{
     height: 60px;
-width: 132px;
-left: 40px;
-top: 197px;
-border-radius: nullpx;
-background: rgba(115, 115, 115, 1);
-
+    width: 132px;
+    color: #737373;
+    margin-top: 15px;
+    
    
 }
+
+.informblock-3{
+    margin-left: 30px;
+}
+
+
