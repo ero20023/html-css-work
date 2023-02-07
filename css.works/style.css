@@ -123,7 +123,7 @@ color: #fff;
   
 .text-1{
     height: 70px;
-    font-size: 25px;
+    font-size: 20px;
     margin-left: 110px;
     color: #fff;
     font-weight: 700;
@@ -214,11 +214,10 @@ margin-left: 40px;
 
 .text-2{
     height: 50px;
-width: 585px;
- color: #fff;
+ color: rgba(255, 255, 255, 1);
  margin-left: 40px;
  margin-top: 5px;
- font-size: 20px;
+ font-size: 30px;
  
 
  
@@ -310,7 +309,7 @@ width: 585px;
     background: rgba(255, 255, 255, 1);
     margin: 30px;
     box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
-    margin-top:14px;
+    margin-top:10px;
 }
 
 .cards-2{
@@ -334,6 +333,121 @@ width: 585px;
     box-shadow: 0px 13px 19px 0px rgba(0, 0, 0, 0.07);
     margin-top: 10px;
 }
+
+.title-2{
+    height: 768px;
+    
+    
+    
+    
+}
+
+.title-text-2{
+    height: 24px;
+    color: #23a6f0;
+    margin-top :60px;
+    margin-left: 40px;
+}
+
+.text-h2{
+    height: 50px;
+    color: rgba(255, 255, 255, 1);
+     margin-left: 40px;
+     margin-top: 5px;
+     font-size: 40px;
+
+}
+
+.text-paragrhap{
+    color: #fff;
+    margin-left: 30px;
+    
+    
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.product-cards{
+    width: 241px;
+    height: 650px;
+    background: rgba(255, 255, 255, 1);
+      margin: 10px;
+}
+ .header-product-card {
+    width: 54px;
+    height: 24px;
+    font-size: 14px;
+    color: rgba(35, 166, 240, 1);
+    padding-left: 10px;
+    padding-top: 10px;
+    
+
+}
+
+.product-card-body {
+    width: 131px;
+    height: 24px;
+    font-size: 16px;
+    color: #252b42;
+    margin-top: 10px;
+    padding-left: 10px;
+
+}
+
+.product-card-footer {
+    width: 182px;
+    height: 40px;
+    font-size: 14px;
+    color: rgba(115, 115, 115, 1);
+    margin-left: 10px;
+
+}
+
+.border-card{
+    width: 51px;
+    height: 24px;
+    border-radius: 3px;
+    background: #e74040;
+}
+
+.img-border{
+    width: 50px;
+    height: 26px;
+    border-radius: 20px;
+    background: rgba(37, 43, 66, 1);
+
+}
+
+.vector.png{
+    width: 16px;
+    height: 5px;
+    margin-left: 30px;
+    color: #737373;
+}
+
+.vector-4{
+    width: 7px;
+    height: 11px;
+    margin-right: 60px;
+    
+}
+
+.vector-card{
+    margin-left: 10px;
+}
+
+
+
+    
+
+
+
+
+
+
 
 
 
