@@ -406,38 +406,6 @@ margin-left: 40px;
 
 }
 
-.border-card{
-    width: 51px;
-    height: 24px;
-    border-radius: 3px;
-    background: #e74040;
-}
-
-.img-border{
-    width: 50px;
-    height: 26px;
-    border-radius: 20px;
-    background: rgba(37, 43, 66, 1);
-
-}
-
-.vector.png{
-    width: 16px;
-    height: 5px;
-    margin-left: 30px;
-    color: #737373;
-}
-
-.vector-4{
-    width: 7px;
-    height: 11px;
-    margin-right: 60px;
-    
-}
-
-.vector-card{
-    margin-left: 10px;
-}
 
 
 
