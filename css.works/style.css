@@ -400,12 +400,14 @@ margin-left: 40px;
 
 .icone-pictures{
     
-    margin-left: 30px;
+    
     display: flex;
     align-items: center;
-     justify-content: space-around;
+    justify-content: center;
     margin-right: 10px;
-   align-items: center;
+    
+     
+   
    
     
     
@@ -415,8 +417,9 @@ margin-left: 40px;
     color: #23a6f0;
     width: 54px;
     height: 24px;
-    margin-top: 50px;
     margin-left: 10px;
+    margin-top: 50px;
+    
 }
 
 .text-card{
@@ -425,6 +428,8 @@ margin-left: 40px;
     font-size: 16px;
     color: #252b42;
     margin-left: 10px;
+    text-align: center;
+    margin-top: 10px;
 }
 
 .description-card{
@@ -432,7 +437,59 @@ margin-left: 40px;
     height: 24px;
     color: #737373;
     margin-left: 10px;
+    text-align: center;
+    margin-top: 10px;
+    font-family: sans-serif;
+    
 }
+
+.icone-1{
+    margin: 5px;
+    
+}
+.icone-2{
+    margin: 5px;
+}
+
+.icone-3{
+    margin: 3px;
+}
+
+.text-sales{
+    width: 157px;
+    height: 24px;
+    font-size: 14px;
+    color: #737373;
+    text-align: center;
+    
+    
+    
+}
+
+.vector-1{
+    width: 7px;
+    height: 11px;
+    color: #737373;
+    margin-top: 20px;
+    margin-left: 10px;
+    position: absolute;
+    
+}
+
+.vector-card-2{
+    width: 16px;
+    height: 5px;
+    color: #737373;
+    margin-top: 40px;
+    margin-left: 10px;
+    
+}
+
+
+
+
+
+
 
 
 
