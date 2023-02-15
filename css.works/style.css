@@ -617,15 +617,16 @@ footer{
 }
 
 .col{
-    color: #252b42;
+    color: #737373;
     font-family: poppins;
     padding: 0 2rem;
+    
 
     
 }
 
 .col h3{
-    color: #252b42;
+    color:#252b42;
     margin-bottom: 20px;
     
 }
