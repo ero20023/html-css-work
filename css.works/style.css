@@ -632,7 +632,7 @@ footer{
 
   .col .social{
     margin-top: 30px;
-    margin: 10px;
+    position: static;
 
     
       
@@ -645,6 +645,10 @@ footer{
     line-height: 30px;
     position: relative;
 
+}
+
+.img-footer-1{
+    margin: 10px;
 }
 
 
