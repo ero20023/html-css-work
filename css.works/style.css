@@ -657,7 +657,7 @@ footer{
 
 .container-card{
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
@@ -666,6 +666,7 @@ footer{
     background: #fff;
     height: 650px;
     margin: 10px;
+    
 }
 
 .card-category{
